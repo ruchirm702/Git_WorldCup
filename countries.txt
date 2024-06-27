@@ -1,0 +1,10 @@
+## Countries Hosting Matches
+
+The Cricket World Cup 2024 will be held across multiple countries, each offering unique venues and conditions. The host countries are:
+
+1. India
+2. Australia
+3. England
+4. South Africa
+
+Each of these countries will bring their distinct flavor to the tournament, providing diverse experiences for teams and fans alike.
